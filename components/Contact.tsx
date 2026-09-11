@@ -67,7 +67,7 @@ export default function Contact() {
                 <div>
                   <p className="text-xs text-slate-400 font-bold uppercase">Location</p>
                   <p className="text-slate-200 font-medium text-sm mt-0.5">
-                    OM PHYSIO CARE & FITNESS CENTER, Main Road, Medical Plaza
+                    Asopalav Cross Road, 206, Nana Mava Main Rd, Satyam Park, Nana Mava, Rajkot, Gujarat 360004
                   </p>
                 </div>
               </div>
@@ -99,7 +99,9 @@ export default function Contact() {
                 <div>
                   <p className="text-xs text-slate-400 font-bold uppercase">Hours</p>
                   <p className="text-slate-200 font-medium text-sm mt-0.5">
-                    Monday – Saturday: 8:00 AM – 8:00 PM
+                    Monday – Saturday<br/>
+                    09:00 AM – 01:00 PM<br/>
+                    04:00 PM – 08:00 PM
                   </p>
                 </div>
               </div>
