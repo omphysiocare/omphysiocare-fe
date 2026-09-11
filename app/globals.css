@@ -14,16 +14,13 @@
   }
 }
 
-/* Glassmorphism & Custom Accents */
-.glass-panel {
-  background: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border: 1px solid rgba(255, 255, 255, 0.6);
-}
-
-.gradient-title {
-  background: linear-gradient(135deg, #0f766e 0%, #0284c7 100%);
+/* Brand Dual-Color Gradient */
+.gradient-brand {
+  background: linear-gradient(135deg, #267690 0%, #57b45a 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.gradient-brand-bg {
+  background: linear-gradient(135deg, #267690 0%, #57b45a 100%);
 }
