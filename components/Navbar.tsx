@@ -8,12 +8,12 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-white/90 backdrop-blur-md border-b border-slate-200/80 shadow-xs">
       <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
         <a href="#home" className="flex items-center gap-3 group">
-          <div className="w-[300px] rounded-2xl bg-gradient-to-tr from-teal-700 to-teal-500 flex items-center justify-center text-white shadow-md shadow-teal-700/20 group-hover:scale-105 transition">
+          <div className="w-[300px] rounded-2xl bg-gradient-to-tr from-teal-700 to-teal-500 flex items-center justify-center text-white transition">
             <Image
               src="/logo.png"
               alt="OM Physio Care Logo"
-              width={48}
-              height={48}
+              width={480}
+              height={480}
               className="object-contain w-full h-full"
               priority
             />
